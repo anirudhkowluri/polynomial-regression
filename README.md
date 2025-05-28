@@ -1,1 +1,1 @@
-# polynomial-regression
+# predicted houses using polynomial regression 
